@@ -1,7 +1,7 @@
 Summary:	Oracle Database Programming Interface for Drivers and Applications
 Name:		odpi
 Version:	4.1.0
-Release:	1
+Release:	2
 License:	Apache v2.0, UPL v1.0
 Group:		Libraries
 Source0:	https://github.com/oracle/odpi/archive/v%{version}/%{name}-%{version}.tar.gz
